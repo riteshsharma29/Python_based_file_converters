@@ -2,7 +2,7 @@ import convertapi
 import os
 import sys
 
-convertapi.api_secret = 'oQgN1dXVk3ce0NIP'
+convertapi.api_secret = 'Your-convertapi-apikey'
 
 if len(sys.argv) < 2:
     print ('\n')
