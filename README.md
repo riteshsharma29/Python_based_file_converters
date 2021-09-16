@@ -24,3 +24,5 @@ To
 conversion_timeout = 180
 
 and save the file.
+
+Update your convertapi api key in docx_pdf.py,epub_pdf.py,pdf_docx.py and save the file before using.
